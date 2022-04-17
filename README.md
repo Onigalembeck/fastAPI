@@ -1,2 +1,7 @@
 # fastAPI
 Projeto de pagamentos utilizando FastAPI e SQLAlchemy
+
+## REQUERIMENTOS
+`pip install typing fastapi sqlalchemy pydantic random datetime uvicorn`
+
+EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO ESTÁ LOCALIZADO E RODE: `uvicorn pagamentos:app`. UM LINK SERÁ GERADO NO TERMINAL, CLIQUE NELE COM A TECLA "Ctrl" PRESSIONADA OU COPIE PARA A BARRA DE ENDERÇO. COM O SITE ABERTO, VÁ NA BARRA DE ENDEREÇO E ADICIONE "/docs" PARA ABRIR O SWAGGER.
