@@ -7,7 +7,7 @@ Projeto de pagamentos utilizando FastAPI e SQLAlchemy
 
 `sudo apt install sqlite3`
 
-EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO pagamentos.py ESTÁ LOCALIZADO E RODE: 
+EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO "pagamentos.py" ESTÁ LOCALIZADO, ESPECIFICAMENTE NA PASTA SRC, E RODE: 
 
 `uvicorn pagamentos:app`
 
