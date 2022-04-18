@@ -4,7 +4,7 @@ Projeto de pagamentos utilizando FastAPI e SQLAlchemy
 ## REQUERIMENTOS
 `pip install typing fastapi sqlalchemy pydantic random datetime uvicorn`
 
-EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO ESTÁ LOCALIZADO E RODE: 
+EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO pagamentos.py ESTÁ LOCALIZADO E RODE: 
 
 `uvicorn pagamentos:app`
 
