@@ -5,9 +5,15 @@ Projeto de pagamentos utilizando FastAPI e SQLAlchemy
 
 `pip install typing fastapi sqlalchemy pydantic datetime uvicorn`
 
+`pip3 install typing fastapi sqlalchemy pydantic datetime uvicorn`
+
 `sudo apt install sqlite3`
 
-EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO "pagamentos.py" ESTÁ LOCALIZADO, ESPECIFICAMENTE NA PASTA SRC, E RODE: 
+EM SEGUIDA, PARA DAR INÍCIO AO API, ABRA O TERMINAL MUDE PARA O DIRETÓRIO ONDE O ARQUIVO "pagamentos.py" ESTÁ LOCALIZADO, ESPECIFICAMENTE NA PASTA "src".
+
+`cd src`
+
+E RODE: 
 
 `uvicorn pagamentos:app`
 
