@@ -3,7 +3,7 @@ Projeto de pagamentos utilizando FastAPI e SQLAlchemy
 
 ## REQUERIMENTOS
 
-`pip install typing fastapi sqlalchemy pydantic random datetime uvicorn`
+`pip install typing fastapi sqlalchemy pydantic datetime uvicorn random`
 
 `sudo apt install sqlite3`
 
